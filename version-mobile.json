@@ -1,8 +1,8 @@
 {
-    "versionCode":  354,
-    "versionName":  "1.0.354-mobile",
-    "updateUrl":  "https://github.com/NuraPlayer/app-updates/releases/download/v354/nura-player-mobile.apk",
-    "sha256":  "c0365f1fb9e85f5b7e9bec8e714a03198303dad23c827fedfbfe8c3541a431ef",
-    "updateNotes":  "New Nura icon and a new profile screen. Live TV logos are bigger. Search no longer freezes. Groups follow your playlist order. Playlists can be reloaded from the panel. Update checks are more secure. Crash fixes.",
+    "versionCode":  357,
+    "versionName":  "1.0.357-mobile",
+    "updateUrl":  "https://github.com/NuraPlayer/app-updates/releases/download/v357/nura-player-mobile.apk",
+    "sha256":  "29acd833e8ed151276b76fae5fa8134486046dcc3de09a44e550760b93bf404a",
+    "updateNotes":  "New: the Movies and Series banner plays a trailer of the highlighted title, with sound (change it under Settings \u003e Player \u003e Banner trailer). Much better catch-up: jump anywhere in a replayed programme, start over, previous and next programme, a Fix time button, replay marks in the guide, and replays carry on where you left off. Cleaner player controls. Sports Hub finds more event channels. A clearer message when a channel needs a VPN. New TV banner and notification icon.",
     "isForceUpdate":  false
 }

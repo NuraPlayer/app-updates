@@ -1,8 +1,8 @@
 {
-    "versionCode":  344,
-    "versionName":  "1.0.344-tv",
-    "updateUrl":  "https://github.com/IO-Player/app-updates/releases/download/v344/nura-player-tv.apk",
-    "sha256":  "fe5af22de1dfeab9bb87c9e0ac907fb05d8e46e62e13a4a58ef22aafdffeeb25",
-    "updateNotes":  "Guide: thinner rows, lighter look, bigger text, clear quality tags and whole rows (nothing cut off). Movies and Series: the banner follows the poster you highlight. Player: visible highlight on the bottom icons. Settings: shows how many channels the guide covers. Sports Hub: Football. Side menu matches the screen colour. Renamed to Nura Player.",
+    "versionCode":  354,
+    "versionName":  "1.0.354-tv",
+    "updateUrl":  "https://github.com/NuraPlayer/app-updates/releases/download/v354/nura-player-tv.apk",
+    "sha256":  "f7f6536b54757af46841d84443a7ccb36275871580d3796561a8a303352d7860",
+    "updateNotes":  "New Nura icon and a new profile screen. Live TV logos are bigger. Search no longer freezes. Groups follow your playlist order. Playlists can be reloaded from the panel. Update checks are more secure. Crash fixes.",
     "isForceUpdate":  false
 }

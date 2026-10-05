@@ -1,8 +1,8 @@
 {
-    "versionCode":  357,
-    "versionName":  "1.0.357-tv",
-    "updateUrl":  "https://github.com/NuraPlayer/app-updates/releases/download/v357/nura-player-tv.apk",
-    "sha256":  "17618241f287e92f6324e4fa0ea2d1a8782e8eea5a4b4c0429c807e9eefe5597",
-    "updateNotes":  "New: the Movies and Series banner plays a trailer of the highlighted title, with sound (change it under Settings \u003e Player \u003e Banner trailer). Much better catch-up: jump anywhere in a replayed programme, start over, previous and next programme, a Fix time button, replay marks in the guide, and replays carry on where you left off. Cleaner player controls. Sports Hub finds more event channels. A clearer message when a channel needs a VPN. New TV banner and notification icon.",
+    "versionCode":  368,
+    "versionName":  "V2-tv Beta",
+    "updateUrl":  "https://github.com/NuraPlayer/app-updates/releases/download/v368/nura-player-tv.apk",
+    "sha256":  "37ed36c4cd87a89170cc2171021abff49183b56ddf9b7e29d0f6194c15888008",
+    "updateNotes":  "V2-tv Beta. One top bar on every screen (the side menu is gone) and Guide is now Live TV. Remote keys while watching follow TiviMate (Up/Down change channel, Left channel list, Right last channel, OK recent channels). Hardware video decoding with automatic frame rate for smoother playback. A calmer, slightly darker default colour with 10 colour choices. Faster redesigned Live TV guide, catch-up keeps 7 days, no more trailer pause symbol. Guide: every channel now has one guide ID (bbcone.uk).",
     "isForceUpdate":  false
 }

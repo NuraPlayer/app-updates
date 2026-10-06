@@ -1,8 +1,8 @@
 {
-    "versionCode":  368,
+    "versionCode":  374,
     "versionName":  "V2-tv Beta",
-    "updateUrl":  "https://github.com/NuraPlayer/app-updates/releases/download/v368/nura-player-tv.apk",
-    "sha256":  "37ed36c4cd87a89170cc2171021abff49183b56ddf9b7e29d0f6194c15888008",
-    "updateNotes":  "V2-tv Beta. One top bar on every screen (the side menu is gone) and Guide is now Live TV. Remote keys while watching follow TiviMate (Up/Down change channel, Left channel list, Right last channel, OK recent channels). Hardware video decoding with automatic frame rate for smoother playback. A calmer, slightly darker default colour with 10 colour choices. Faster redesigned Live TV guide, catch-up keeps 7 days, no more trailer pause symbol. Guide: every channel now has one guide ID (bbcone.uk).",
+    "updateUrl":  "https://github.com/NuraPlayer/app-updates/releases/download/v374/nura-player-tv.apk",
+    "sha256":  "73c1294e2b82334f5eb3178a949b98b8e8c616e1beb5eac1fc8c53e6fc1f9ad9",
+    "updateNotes":  "V2-tv Beta, second update. Live TV guide now works like TiviMate: scrolling only highlights a channel, OK plays it in the preview and OK again goes full screen, and the channel you were watching carries straight on in the preview when you come back. Back climbs one step at a time (programmes, groups, top bar) and jumps to the top bar in Movies, Series, Favourites and Settings. Left in today\u0027s guide stops at the half hour before now and then goes to the channels. Sports Hub opens the fixtures screen. The guide is taller with no bottom key strip and a sharper preview. 13 ready-made colour themes with new blues, bolder text, and a transparency slider that works everywhere. Server: client Groups page has Select All, a Hidden groups box and Move buttons.",
     "isForceUpdate":  false
 }

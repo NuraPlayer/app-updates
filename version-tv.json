@@ -1,8 +1,8 @@
 {
-    "versionCode":  398,
+    "versionCode":  400,
     "versionName":  "V2-tv Beta",
-    "updateUrl":  "https://github.com/NuraPlayer/app-updates/releases/download/v398/nura-player-tv.apk",
-    "sha256":  "f8a0cc783a56fe85af9b8b6ef3ffa390bda637e7ca658b71d686d306f9fce145",
-    "updateNotes":  "Smooth scrolling through the hours in the Guide. Catch-up easier to find (quick guide label, long press OK). Watch / Start over / Remind moved to the long-press OK menu. Guide uses the full width; groups open with Left. Channel logos load reliably. Smaller, faster-updating app.",
+    "updateUrl":  "https://github.com/NuraPlayer/app-updates/releases/download/v400/nura-player-tv.apk",
+    "sha256":  "96cea5bdf558f3abf481ddd4d72f5cff94fa5be7a77d8f7c6c63888e50ac40c8",
+    "updateNotes":  "Movies and Series scroll much more smoothly. Banner trailers wait until you stop on a title and stop as soon as you press a button. US Entertainment and US AT\u0026T now list the popular channels first.",
     "isForceUpdate":  false
 }

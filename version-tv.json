@@ -1,8 +1,8 @@
 {
-    "versionCode":  387,
+    "versionCode":  398,
     "versionName":  "V2-tv Beta",
-    "updateUrl":  "https://github.com/NuraPlayer/app-updates/releases/download/v387/nura-player-tv.apk",
-    "sha256":  "9986ea32534fddf1cabb3c81d96d44db09a394cb799292561b6de8b83a91395c",
-    "updateNotes":  "V2-tv Beta, fourth update. New: Nura\u0027s own on-screen keyboard for Search on the TV (Guide, Movies, Series, Home), and a Test your remote page in Settings \u003e Remote Control. Better: the Guide scrolls more smoothly when you tap Up/Down, a sharper-looking Guide, Multi-view opens faster and its channel list starts with real channels. Fixed: long programme titles no longer push the Watch and Start over buttons out of the panel, and Multi-view no longer drops you out after closing the channel list.",
+    "updateUrl":  "https://github.com/NuraPlayer/app-updates/releases/download/v398/nura-player-tv.apk",
+    "sha256":  "f8a0cc783a56fe85af9b8b6ef3ffa390bda637e7ca658b71d686d306f9fce145",
+    "updateNotes":  "Smooth scrolling through the hours in the Guide. Catch-up easier to find (quick guide label, long press OK). Watch / Start over / Remind moved to the long-press OK menu. Guide uses the full width; groups open with Left. Channel logos load reliably. Smaller, faster-updating app.",
     "isForceUpdate":  false
 }

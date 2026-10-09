@@ -1,8 +1,8 @@
 {
-    "versionCode":  400,
+    "versionCode":  403,
     "versionName":  "V2-tv Beta",
-    "updateUrl":  "https://github.com/NuraPlayer/app-updates/releases/download/v400/nura-player-tv.apk",
-    "sha256":  "96cea5bdf558f3abf481ddd4d72f5cff94fa5be7a77d8f7c6c63888e50ac40c8",
-    "updateNotes":  "Movies and Series scroll much more smoothly. Banner trailers wait until you stop on a title and stop as soon as you press a button. US Entertainment and US AT\u0026T now list the popular channels first.",
+    "updateUrl":  "https://github.com/NuraPlayer/app-updates/releases/download/v403/nura-player-tv.apk",
+    "sha256":  "ce926bd16dc4ed3e16eacd5494e13def432e4b2a7951111feb308d161039e15a",
+    "updateNotes":  "Live channels reconnect by themselves instead of freezing when the provider drops the stream. Pause and rewind keeps going through short gaps. Fixed an empty Guide after first sign-in. Formuler remote: Groups and Favorite buttons work, and the dot buttons can be given a job (Settings \u003e Remote Control).",
     "isForceUpdate":  false
 }

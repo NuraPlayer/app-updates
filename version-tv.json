@@ -1,8 +1,8 @@
 {
-    "versionCode":  403,
-    "versionName":  "V2-tv Beta",
-    "updateUrl":  "https://github.com/NuraPlayer/app-updates/releases/download/v403/nura-player-tv.apk",
-    "sha256":  "ce926bd16dc4ed3e16eacd5494e13def432e4b2a7951111feb308d161039e15a",
-    "updateNotes":  "Live channels reconnect by themselves instead of freezing when the provider drops the stream. Pause and rewind keeps going through short gaps. Fixed an empty Guide after first sign-in. Formuler remote: Groups and Favorite buttons work, and the dot buttons can be given a job (Settings \u003e Remote Control).",
-    "isForceUpdate":  false
+    "versionCode": 440,
+    "versionName": "V2-tv Beta",
+    "updateUrl": "https://github.com/NuraPlayer/app-updates/releases/download/v440/nura-player-tv.apk",
+    "sha256": "ca6c3220c12f58b3e567e0041d845a4c71f0b47a95633234a033c1e752d7d22f",
+    "updateNotes": "Recording (first test version): press the red dot or Record key, or hold OK, and choose how long; hold OK on a programme in the Guide to record it now or later. New Recordings tab. When a channel stops working, Nura plays its HD, SD or backup copy. Optional Wide guide style (Settings > EPG > TV Guide). Fixed: the whole payment QR code shows, Add Profile opens the add form, no more closing on older boxes after a network change.",
+    "isForceUpdate": false
 }

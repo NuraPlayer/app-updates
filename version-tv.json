@@ -1,8 +1,8 @@
 {
-    "versionCode": 440,
+    "versionCode": 447,
     "versionName": "V2-tv Beta",
-    "updateUrl": "https://github.com/NuraPlayer/app-updates/releases/download/v440/nura-player-tv.apk",
-    "sha256": "ca6c3220c12f58b3e567e0041d845a4c71f0b47a95633234a033c1e752d7d22f",
-    "updateNotes": "Recording (first test version): press the red dot or Record key, or hold OK, and choose how long; hold OK on a programme in the Guide to record it now or later. New Recordings tab. When a channel stops working, Nura plays its HD, SD or backup copy. Optional Wide guide style (Settings > EPG > TV Guide). Fixed: the whole payment QR code shows, Add Profile opens the add form, no more closing on older boxes after a network change.",
+    "updateUrl": "https://github.com/NuraPlayer/app-updates/releases/download/v447/nura-player-tv.apk",
+    "sha256": "b3f23deb3ed3491e27a6526293331923b9af343cd8bb9bf5462fff3514ef89e5",
+    "updateNotes": "Watched marks: a tick on movies and series you have finished, and a bar on ones you have started. Long-press OK on a poster to mark it as watched or unwatched (a whole series or one season too). New in Settings > Appearance: smaller posters (two rows on screen) and ratings on or off. Backups can now be saved to a USB drive or SD card.",
     "isForceUpdate": false
 }

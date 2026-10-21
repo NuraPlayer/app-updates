@@ -1,8 +1,8 @@
 {
-    "versionCode":  357,
-    "versionName":  "1.0.357-mobile",
-    "updateUrl":  "https://github.com/NuraPlayer/app-updates/releases/download/v357/nura-player-mobile.apk",
-    "sha256":  "29acd833e8ed151276b76fae5fa8134486046dcc3de09a44e550760b93bf404a",
-    "updateNotes":  "New: the Movies and Series banner plays a trailer of the highlighted title, with sound (change it under Settings \u003e Player \u003e Banner trailer). Much better catch-up: jump anywhere in a replayed programme, start over, previous and next programme, a Fix time button, replay marks in the guide, and replays carry on where you left off. Cleaner player controls. Sports Hub finds more event channels. A clearer message when a channel needs a VPN. New TV banner and notification icon.",
-    "isForceUpdate":  false
+    "versionCode": 483,
+    "versionName": "V2-mobile Beta",
+    "updateUrl": "https://github.com/NuraPlayer/app-updates/releases/download/v483/nura-player-mobile.apk",
+    "sha256": "d5d66ffebfd0fe4b4e9c32405410579ab63406cd74f1e8945e3494e86230b567",
+    "updateNotes": "New phone Home made for live TV: a channel plays the moment you open it, with Favourites, Sport and Recent channels, now and next, and the Sports Hub. Sports Hub with today's matches, live football scores and which of your channels shows each match; follow your teams. Watchlist for films and series. Reminders for big PPV events with the channels that show them. Teletext subtitles and a choice of subtitle size and colour. A clearer message when your provider refuses a channel (check your VPN). Many fixes.",
+    "isForceUpdate": false
 }

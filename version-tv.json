@@ -1,8 +1,8 @@
 {
-    "versionCode":  526,
-    "versionName":  "V2-tv Beta",
-    "updateUrl":  "https://github.com/NuraPlayer/app-updates/releases/download/v526/nura-player-tv.apk",
-    "sha256":  "e9d5f85e4c1a9e1a76d5200e90711d7bfd8e56e6482e613be96e619f75e7ede0",
-    "updateNotes":  "Sports Hub: match centre (events, stats, line-ups), league tables, sharper club badges, goal alerts that say who scored, reminders at kick-off / 15 min / 1 hour as a small top-right card, add to calendar on the phone. Club TV channels now show their club crest.",
-    "isForceUpdate":  false
+  "versionCode": 526,
+  "versionName": "V2-tv Beta",
+  "updateUrl": "https://github.com/NuraPlayer/app-updates/releases/download/v526/nura-player-tv.apk",
+  "sha256": "e9d5f85e4c1a9e1a76d5200e90711d7bfd8e56e6482e613be96e619f75e7ede0",
+  "updateNotes": "New in the Sports Hub: a live match centre (events, stats and line-ups), league tables, sharper club badges, and club crests on club TV channels. Plus bug fixes and improvements.",
+  "isForceUpdate": false
 }

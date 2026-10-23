@@ -1,8 +1,8 @@
 {
-    "versionCode": 510,
-    "versionName": "V2-mobile Beta",
-    "updateUrl": "https://github.com/NuraPlayer/app-updates/releases/download/v510/nura-player-mobile.apk",
-    "sha256": "d28b9f80919ef5cb9d7bf08034f77d1b86327e268b1a59628b51c4878d5365fd",
-    "updateNotes": "A channel that freezes when you open it now restarts by itself after a few seconds. Plus bug fixes and improvements.",
-    "isForceUpdate": false
+    "versionCode":  526,
+    "versionName":  "V2-mobile Beta",
+    "updateUrl":  "https://github.com/NuraPlayer/app-updates/releases/download/v526/nura-player-mobile.apk",
+    "sha256":  "69e1fe233a1d01ae676d21b5e83aff04d623c27b34e996d442eadead97633d1b",
+    "updateNotes":  "Sports Hub: match centre (events, stats, line-ups), league tables, sharper club badges, goal alerts that say who scored, reminders at kick-off / 15 min / 1 hour as a small top-right card, add to calendar on the phone. Club TV channels now show their club crest.",
+    "isForceUpdate":  false
 }

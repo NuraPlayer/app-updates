@@ -1,8 +1,8 @@
 {
-    "versionCode":  555,
+    "versionCode":  559,
     "versionName":  "V2-tv Beta",
-    "updateUrl":  "https://github.com/NuraPlayer/app-updates/releases/download/v555/nura-player-tv.apk",
-    "sha256":  "7de21047d9b67c40236e742d8a089bdf52ba6c98ede5db3018836d11decb1bb5",
-    "updateNotes":  "Subtitles on TV now work with the remote (the sheets were unusable); Download subtitles shows only the right title; the subtitles and audio sheets open joined to their button; other log-in tabs restyled; guide search finds channels in any group.",
+    "updateUrl":  "https://github.com/NuraPlayer/app-updates/releases/download/v559/nura-player-tv.apk",
+    "sha256":  "34710c48885d3d50a7007ea31e1ea5274795b058c983f70d4198524d256ac3bf",
+    "updateNotes":  "Movies and Series on TV: a whole row fits on screen, rows step into place and posters slide one at a time, Netflix-style.",
     "isForceUpdate":  false
 }

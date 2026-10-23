@@ -1,8 +1,8 @@
 {
-    "versionCode":  550,
+    "versionCode":  555,
     "versionName":  "V2-mobile Beta",
-    "updateUrl":  "https://github.com/NuraPlayer/app-updates/releases/download/v550/nura-player-mobile.apk",
-    "sha256":  "a7ec2e83b924ad4d6928a07f229668409a4f895f6e981b6c51bfd163eed50ff8",
-    "updateNotes":  "Profile PIN to lock a profile, Sports Hub choices kept per profile, a softer rounder look across the app, and you can now delete your only profile (Delete and sign out).",
+    "updateUrl":  "https://github.com/NuraPlayer/app-updates/releases/download/v555/nura-player-mobile.apk",
+    "sha256":  "bd00424f942d22a596062dab4764cc0651d28c930a0e592636a0c932674b3ee1",
+    "updateNotes":  "Subtitles on TV now work with the remote (the sheets were unusable); Download subtitles shows only the right title; the subtitles and audio sheets open joined to their button; other log-in tabs restyled; guide search finds channels in any group.",
     "isForceUpdate":  false
 }

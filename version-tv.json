@@ -1,8 +1,8 @@
 {
-    "versionCode":  550,
+    "versionCode":  555,
     "versionName":  "V2-tv Beta",
-    "updateUrl":  "https://github.com/NuraPlayer/app-updates/releases/download/v550/nura-player-tv.apk",
-    "sha256":  "f35ab54d83a9a1ae926175fbeee6187274737b42b753c43cd0b19cdccc7cf648",
-    "updateNotes":  "Profile PIN to lock a profile, Sports Hub choices kept per profile, a softer rounder look across the app, and you can now delete your only profile (Delete and sign out).",
+    "updateUrl":  "https://github.com/NuraPlayer/app-updates/releases/download/v555/nura-player-tv.apk",
+    "sha256":  "7de21047d9b67c40236e742d8a089bdf52ba6c98ede5db3018836d11decb1bb5",
+    "updateNotes":  "Subtitles on TV now work with the remote (the sheets were unusable); Download subtitles shows only the right title; the subtitles and audio sheets open joined to their button; other log-in tabs restyled; guide search finds channels in any group.",
     "isForceUpdate":  false
 }

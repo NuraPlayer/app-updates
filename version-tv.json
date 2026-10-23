@@ -1,8 +1,8 @@
 {
-    "versionCode":  543,
+    "versionCode":  550,
     "versionName":  "V2-tv Beta",
-    "updateUrl":  "https://github.com/NuraPlayer/app-updates/releases/download/v543/nura-player-tv.apk",
-    "sha256":  "8c45bb358af2fde715cca9d5f1a86a909fbaa41bd19d6283b1614292c335d110",
-    "updateNotes":  "New look for the phone log-in screen, matching the TV.",
+    "updateUrl":  "https://github.com/NuraPlayer/app-updates/releases/download/v550/nura-player-tv.apk",
+    "sha256":  "f35ab54d83a9a1ae926175fbeee6187274737b42b753c43cd0b19cdccc7cf648",
+    "updateNotes":  "Profile PIN to lock a profile, Sports Hub choices kept per profile, a softer rounder look across the app, and you can now delete your only profile (Delete and sign out).",
     "isForceUpdate":  false
 }

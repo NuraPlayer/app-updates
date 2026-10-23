@@ -1,8 +1,8 @@
 {
-    "versionCode":  537,
+    "versionCode":  541,
     "versionName":  "V2-mobile Beta",
-    "updateUrl":  "https://github.com/NuraPlayer/app-updates/releases/download/v537/nura-player-mobile.apk",
-    "sha256":  "f88c47b9e0758a252d69337058e04e2386d99fcaf490663359fcc2835598928d",
-    "updateNotes":  "Sports Hub: watch a goal again or a match from the start, match preview, spoiler-free matches, Watch two, and match alerts you switch on yourself in Settings. Settings are now sorted into the right sections.",
+    "updateUrl":  "https://github.com/NuraPlayer/app-updates/releases/download/v541/nura-player-mobile.apk",
+    "sha256":  "1c5e5e51a10fd3d45bae5d2ff84a24f74b099298fa02fcd6ae7ce8df641b1220",
+    "updateNotes":  "New look for the TV log-in screen, the Inter font built in so Nura looks the same on every box, and Clear EPG now really empties the guide.",
     "isForceUpdate":  false
 }

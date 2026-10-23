@@ -1,8 +1,8 @@
 {
-    "versionCode":  541,
+    "versionCode":  543,
     "versionName":  "V2-mobile Beta",
-    "updateUrl":  "https://github.com/NuraPlayer/app-updates/releases/download/v541/nura-player-mobile.apk",
-    "sha256":  "1c5e5e51a10fd3d45bae5d2ff84a24f74b099298fa02fcd6ae7ce8df641b1220",
-    "updateNotes":  "New look for the TV log-in screen, the Inter font built in so Nura looks the same on every box, and Clear EPG now really empties the guide.",
+    "updateUrl":  "https://github.com/NuraPlayer/app-updates/releases/download/v543/nura-player-mobile.apk",
+    "sha256":  "ea3909099b8c050591f61640b38a58fcc23ea056e715df12a0264363b8d55ca5",
+    "updateNotes":  "New look for the phone log-in screen, matching the TV.",
     "isForceUpdate":  false
 }

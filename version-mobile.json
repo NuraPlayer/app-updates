@@ -1,8 +1,8 @@
 {
-    "versionCode":  574,
+    "versionCode":  590,
     "versionName":  "V2-mobile Beta",
-    "updateUrl":  "https://github.com/NuraPlayer/app-updates/releases/download/v574/nura-player-mobile.apk",
-    "sha256":  "5dbc7c928ba7c10ac8428504fe4dae20d1e0e0f44fc349bf6f33ba754ff0b5a3",
-    "updateNotes":  "New playlist update screen, more colour themes, Skip outro, Pair with Code names the profile from your editor link, profile switching and group fixes.",
+    "updateUrl":  "https://github.com/NuraPlayer/app-updates/releases/download/v590/nura-player-mobile.apk",
+    "sha256":  "78486e4ce124b77a1b8657eacf9292fe0fcd4c72805cfae1fdd3dddcdf909f21",
+    "updateNotes":  "Glass look across the TV app, your country\u0027s flag as your profile picture, Sports Hub shows every channel for a match, no more black screen when changing channels, smoother Movies and Series.",
     "isForceUpdate":  false
 }

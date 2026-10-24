@@ -1,8 +1,8 @@
 {
-    "versionCode":  559,
+    "versionCode":  574,
     "versionName":  "V2-tv Beta",
-    "updateUrl":  "https://github.com/NuraPlayer/app-updates/releases/download/v559/nura-player-tv.apk",
-    "sha256":  "34710c48885d3d50a7007ea31e1ea5274795b058c983f70d4198524d256ac3bf",
-    "updateNotes":  "Movies and Series on TV: a whole row fits on screen, rows step into place and posters slide one at a time, Netflix-style.",
+    "updateUrl":  "https://github.com/NuraPlayer/app-updates/releases/download/v574/nura-player-tv.apk",
+    "sha256":  "eadaf136c4e734e88258683212ee269a01836bc1a139e694fc660e97ca4b8952",
+    "updateNotes":  "New playlist update screen, more colour themes, Skip outro, Pair with Code names the profile from your editor link, profile switching and group fixes.",
     "isForceUpdate":  false
 }

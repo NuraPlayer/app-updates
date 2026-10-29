@@ -1,8 +1,8 @@
 {
-    "versionCode":  590,
-    "versionName":  "V2-mobile Beta",
-    "updateUrl":  "https://github.com/NuraPlayer/app-updates/releases/download/v590/nura-player-mobile.apk",
-    "sha256":  "78486e4ce124b77a1b8657eacf9292fe0fcd4c72805cfae1fdd3dddcdf909f21",
-    "updateNotes":  "Glass look across the TV app, your country\u0027s flag as your profile picture, Sports Hub shows every channel for a match, no more black screen when changing channels, smoother Movies and Series.",
+    "versionCode":  626,
+    "versionName":  "V2-mobile",
+    "updateUrl":  "https://github.com/NuraPlayer/app-updates/releases/download/v626/nura-player-mobile.apk",
+    "sha256":  "b13d8f52bf1cffcacd87a19a0ce426b55fb2ba473d18bc43b2c9b5b7b666442d",
+    "updateNotes":  "V2 is out of beta. New on TV: Movies and Series as a category list with one poster grid, and one search for channels, programmes on now, movies and series. Cast pictures on movie and series pages. Faster guide updates, smoother scrolling and bug fixes.",
     "isForceUpdate":  false
 }

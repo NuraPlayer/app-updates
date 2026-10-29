@@ -1,8 +1,8 @@
 {
-    "versionCode":  608,
-    "versionName":  "V2-tv Beta",
-    "updateUrl":  "https://github.com/NuraPlayer/app-updates/releases/download/v608/nura-player-tv.apk",
-    "sha256":  "f7ef118fae18bbf2628e66e6fe7c0d924e2fb3f5a081262f13d61d936846e6a2",
-    "updateNotes":  "TV: new Samsung-style guide look, Figtree text, two-column Settings, guide opens on today and downloads in the background.",
+    "versionCode":  626,
+    "versionName":  "V2-tv",
+    "updateUrl":  "https://github.com/NuraPlayer/app-updates/releases/download/v626/nura-player-tv.apk",
+    "sha256":  "d3d52baaf8d0edb1dbe7addc008dfb407b17f724cb74928e36eb7e5768e7e9af",
+    "updateNotes":  "V2 is out of beta. New on TV: Movies and Series as a category list with one poster grid, and one search for channels, programmes on now, movies and series. Cast pictures on movie and series pages. Faster guide updates, smoother scrolling and bug fixes.",
     "isForceUpdate":  false
 }

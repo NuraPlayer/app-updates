@@ -1,8 +1,8 @@
 {
-    "versionCode":  626,
+    "versionCode":  647,
     "versionName":  "V2-tv",
-    "updateUrl":  "https://github.com/NuraPlayer/app-updates/releases/download/v626/nura-player-tv.apk",
-    "sha256":  "d3d52baaf8d0edb1dbe7addc008dfb407b17f724cb74928e36eb7e5768e7e9af",
-    "updateNotes":  "V2 is out of beta. New on TV: Movies and Series as a category list with one poster grid, and one search for channels, programmes on now, movies and series. Cast pictures on movie and series pages. Faster guide updates, smoother scrolling and bug fixes.",
+    "updateUrl":  "https://github.com/NuraPlayer/app-updates/releases/download/v647/nura-player-tv.apk",
+    "sha256":  "b93628d0996eb94f7eb88069f7b5c28ed8fd496b35012d4d7809a472b68569c2",
+    "updateNotes":  "Catch-up from the guide: hold OK on a programme to open Catch-up, on channels that have it. Sports Hub lists the best picture first for each match, and Settings \u003e Sports has a Match alert delay for TV alerts. A live stream that falls behind goes back to live at once, and a dropped connection gets four tries. Movie and series buttons are readable in the glass look.",
     "isForceUpdate":  false
 }

@@ -1,8 +1,8 @@
 {
-    "versionCode":  657,
-    "versionName":  "V2-tv",
-    "updateUrl":  "https://github.com/NuraPlayer/app-updates/releases/download/v657/nura-player-tv.apk",
-    "sha256":  "0a60d68c99a0bbbdb9dcd4b086db282bda885b478869487d59f77f8194f95bd8",
-    "updateNotes":  "\"Follow",
-    "isForceUpdate":  false
+    "versionCode": 657,
+    "versionName": "V2-tv",
+    "updateUrl": "https://github.com/NuraPlayer/app-updates/releases/download/v657/nura-player-tv.apk",
+    "sha256": "0a60d68c99a0bbbdb9dcd4b086db282bda885b478869487d59f77f8194f95bd8",
+    "updateNotes": "Follow teams in the Sports Hub lists every club in the league. Your parental PIN, saved logins and Trakt and SIMKL connection now use Android secure storage, carried over automatically.",
+    "isForceUpdate": false
 }

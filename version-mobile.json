@@ -1,8 +1,8 @@
 {
-    "versionCode":  677,
+    "versionCode":  679,
     "versionName":  "V2-mobile",
-    "updateUrl":  "https://github.com/NuraPlayer/app-updates/releases/download/v677/nura-player-mobile.apk",
-    "sha256":  "6e6497345955bccf16f77ec05f994d3e369895d70595514c54d7994387d9c262",
-    "updateNotes":  "Unlock screen: a new Just this device option (GBP 7) next to the five-device unlock. Scan the code, pay, and the app unlocks by itself.",
+    "updateUrl":  "https://github.com/NuraPlayer/app-updates/releases/download/v679/nura-player-mobile.apk",
+    "sha256":  "b78fec255996139126637bdd3538086474353f76f36e0db2d1630523ae8851ee",
+    "updateNotes":  "New: What should I watch? on the Movies screen. Pick a mood and Nura suggests films from your own library, based on what you like (Nura Pro). Unlock screen: a new Just this device option (GBP 7).",
     "isForceUpdate":  false
 }

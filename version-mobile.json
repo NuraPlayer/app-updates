@@ -1,8 +1,8 @@
 {
-    "versionCode":  671,
+    "versionCode":  672,
     "versionName":  "V2-mobile",
-    "updateUrl":  "https://github.com/NuraPlayer/app-updates/releases/download/v671/nura-player-mobile.apk",
-    "sha256":  "bee1a3d5eb2db094f8c2b5c34df46f75afdee6e6d6d1334d21e4a02988123bca",
-    "updateNotes":  "Guide: pressing OK on the channel in the preview now goes full screen without a long black gap (the picture carries straight on). Going back to the guide is faster too. Fixes a crash when moving through the guide into the next day.",
+    "updateUrl":  "https://github.com/NuraPlayer/app-updates/releases/download/v672/nura-player-mobile.apk",
+    "sha256":  "9915702dcb795a10eff17a1ba4b8622734817c90caee24e03f06d0b0ed003114",
+    "updateNotes":  "Guide: pressing OK on the channel in the preview now goes full screen almost without a black gap (the picture carries straight on, 0.3-0.4 s instead of 2-3 s). Going back to the guide is faster too. Fixes a crash when moving through the guide into the next day.",
     "isForceUpdate":  false
 }

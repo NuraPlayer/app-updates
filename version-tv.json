@@ -1,8 +1,8 @@
 {
-    "versionCode":  669,
+    "versionCode":  671,
     "versionName":  "V2-tv",
-    "updateUrl":  "https://github.com/NuraPlayer/app-updates/releases/download/v669/nura-player-tv.apk",
-    "sha256":  "45fcb9a08c2b2eb4aa4549b195135cfdb871bd47c5be785b210048bbfe20c4d1",
-    "updateNotes":  "Fixed a crash that could close the app when moving along the guide (for example scrolling right into the next day).",
+    "updateUrl":  "https://github.com/NuraPlayer/app-updates/releases/download/v671/nura-player-tv.apk",
+    "sha256":  "8fc5599d14d8d802494a5422a926f73a1bdb4632c7e73ce09c55ea5893184d4a",
+    "updateNotes":  "Guide: pressing OK on the channel in the preview now goes full screen without a long black gap (the picture carries straight on). Going back to the guide is faster too. Fixes a crash when moving through the guide into the next day.",
     "isForceUpdate":  false
 }

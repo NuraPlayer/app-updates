@@ -1,8 +1,8 @@
 {
-    "versionCode":  676,
+    "versionCode":  677,
     "versionName":  "V2-tv",
-    "updateUrl":  "https://github.com/NuraPlayer/app-updates/releases/download/v676/nura-player-tv.apk",
-    "sha256":  "8aebb36b0e221bb310785850c47363e833dfc893cf7f436efa8ba10406c053ee",
-    "updateNotes":  "Guide: the groups column on the left now widens to fit the longest group name (no more PPV- G... or Eurosp...) and has more room between rows. If you have more than one profile, a Playlist row at the top of the groups lets you switch playlist without leaving the guide.",
+    "updateUrl":  "https://github.com/NuraPlayer/app-updates/releases/download/v677/nura-player-tv.apk",
+    "sha256":  "31151ef92341303eb0832f6d2224fefa18666630013d39285f50b2ebde116696",
+    "updateNotes":  "Unlock screen: a new Just this device option (GBP 7) next to the five-device unlock. Scan the code, pay, and the app unlocks by itself.",
     "isForceUpdate":  false
 }

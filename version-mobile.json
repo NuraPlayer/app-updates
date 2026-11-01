@@ -1,8 +1,8 @@
 {
-    "versionCode":  647,
+    "versionCode":  664,
     "versionName":  "V2-mobile",
-    "updateUrl":  "https://github.com/NuraPlayer/app-updates/releases/download/v647/nura-player-mobile.apk",
-    "sha256":  "a1a6aac82352fdcaba83fbd36eff9e2b366d3302185e25132389dfba2a85380b",
-    "updateNotes":  "Catch-up from the guide: hold OK on a programme to open Catch-up, on channels that have it. Sports Hub lists the best picture first for each match, and Settings \u003e Sports has a Match alert delay for TV alerts. A live stream that falls behind goes back to live at once, and a dropped connection gets four tries. Movie and series buttons are readable in the glass look.",
+    "updateUrl":  "https://github.com/NuraPlayer/app-updates/releases/download/v664/nura-player-mobile.apk",
+    "sha256":  "a6242d007c810f7e2ae36099aec2a577b2f9938bb17d0176eb68a60d77e63bd0",
+    "updateNotes":  "The TV guide now downloads quietly in the background without slowing the app or video playback. Includes the earlier crash fix for scrolling lists.",
     "isForceUpdate":  false
 }

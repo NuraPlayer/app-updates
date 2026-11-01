@@ -1,8 +1,8 @@
 {
-    "versionCode":  668,
+    "versionCode":  669,
     "versionName":  "V2-tv",
-    "updateUrl":  "https://github.com/NuraPlayer/app-updates/releases/download/v668/nura-player-tv.apk",
-    "sha256":  "3198cd6db132f9dec3bb4050d51bc2b6a573d555d29c72abf10e17926cde7da6",
-    "updateNotes":  "Fixed a crash that could close the app while moving around the guide and switching between the guide and full screen.",
+    "updateUrl":  "https://github.com/NuraPlayer/app-updates/releases/download/v669/nura-player-tv.apk",
+    "sha256":  "45fcb9a08c2b2eb4aa4549b195135cfdb871bd47c5be785b210048bbfe20c4d1",
+    "updateNotes":  "Fixed a crash that could close the app when moving along the guide (for example scrolling right into the next day).",
     "isForceUpdate":  false
 }

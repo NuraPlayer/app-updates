@@ -1,8 +1,8 @@
 {
-    "versionCode":  667,
+    "versionCode":  668,
     "versionName":  "V2-tv",
-    "updateUrl":  "https://github.com/NuraPlayer/app-updates/releases/download/v667/nura-player-tv.apk",
-    "sha256":  "43a12142d323a2fb26da495b4a731fed945425ce7e143e8f1bd03319357ef557",
-    "updateNotes":  "Guide preview: fixes a black preview after returning from full screen on some boxes (it now restarts itself), Settings \u003e Player \u003e \u0027Use SurfaceView\u0027 now applies to the preview, and what\u0027s on now and next appears straight away when you open a channel full screen.",
+    "updateUrl":  "https://github.com/NuraPlayer/app-updates/releases/download/v668/nura-player-tv.apk",
+    "sha256":  "3198cd6db132f9dec3bb4050d51bc2b6a573d555d29c72abf10e17926cde7da6",
+    "updateNotes":  "Fixed a crash that could close the app while moving around the guide and switching between the guide and full screen.",
     "isForceUpdate":  false
 }

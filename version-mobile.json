@@ -1,8 +1,8 @@
 {
-    "versionCode":  672,
+    "versionCode":  676,
     "versionName":  "V2-mobile",
-    "updateUrl":  "https://github.com/NuraPlayer/app-updates/releases/download/v672/nura-player-mobile.apk",
-    "sha256":  "9915702dcb795a10eff17a1ba4b8622734817c90caee24e03f06d0b0ed003114",
-    "updateNotes":  "Guide: pressing OK on the channel in the preview now goes full screen almost without a black gap (the picture carries straight on, 0.3-0.4 s instead of 2-3 s). Going back to the guide is faster too. Fixes a crash when moving through the guide into the next day.",
+    "updateUrl":  "https://github.com/NuraPlayer/app-updates/releases/download/v676/nura-player-mobile.apk",
+    "sha256":  "f343587f61f62e14c43449031964f3b3205294e39300e55d4cadd151c5a3db0e",
+    "updateNotes":  "Guide: the groups column on the left now widens to fit the longest group name (no more PPV- G... or Eurosp...) and has more room between rows. If you have more than one profile, a Playlist row at the top of the groups lets you switch playlist without leaving the guide.",
     "isForceUpdate":  false
 }

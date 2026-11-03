@@ -1,8 +1,22 @@
 {
-    "versionCode":  679,
+    "versionCode":  698,
     "versionName":  "V2-mobile",
-    "updateUrl":  "https://github.com/NuraPlayer/app-updates/releases/download/v679/nura-player-mobile.apk",
-    "sha256":  "b78fec255996139126637bdd3538086474353f76f36e0db2d1630523ae8851ee",
-    "updateNotes":  "New: What should I watch? on the Movies screen. Pick a mood and Nura suggests films from your own library, based on what you like (Nura Pro). Unlock screen: a new Just this device option (GBP 7).",
-    "isForceUpdate":  false
+    "updateUrl":  "https://github.com/NuraPlayer/app-updates/releases/download/v698/nura-player-mobile.apk",
+    "sha256":  "4ee8c089d4f3027f22ecce3e6cc7ff33686f1a2ef9981c161e82d03e022b8505",
+    "updateNotes":  "Simkl: link your Simkl account in Settings and what you watch is tracked. First channel plays in the guide preview on first start. Recently watched card no longer cuts off a row. Smoother playback after updates (compiled at install). Fewer reconnects on one-connection accounts.",
+    "isForceUpdate":  false,
+    "profiles":  [
+                     {
+                         "minApi":  28,
+                         "maxApi":  30,
+                         "url":  "https://github.com/NuraPlayer/app-updates/releases/download/v698/nura-player-mobile-api28.dm",
+                         "sha256":  "f00e27ca8fc2d3b5fb63546fbb07471e5460ec705c817b7924aeb8c4c2de5216"
+                     },
+                     {
+                         "minApi":  31,
+                         "maxApi":  2147483647,
+                         "url":  "https://github.com/NuraPlayer/app-updates/releases/download/v698/nura-player-mobile-api31.dm",
+                         "sha256":  "656973a1fcd20b45c5273a1113ddcd2b28ea0bd38255d15031cb1d0598ca3972"
+                     }
+                 ]
 }

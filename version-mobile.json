@@ -1,22 +1,22 @@
 {
-    "versionCode":  702,
-    "versionName":  "V2-mobile",
-    "updateUrl":  "https://github.com/NuraPlayer/app-updates/releases/download/v702/nura-player-mobile.apk",
-    "sha256":  "9dba3c7a0fd7fd739b3b10f3db3ba055f1796b65c4f82da204d1b419c8e8c077",
-    "updateNotes":  "All notifications are silent now (goal alerts, reminders, sports events). Crash reports carry more detail so problems can be fixed faster. Simkl tracking, first-channel preview and smoother playback from the previous update.",
+    "versionCode":  703,
+    "versionName":  "V2-mobile.1",
+    "updateUrl":  "https://github.com/NuraPlayer/app-updates/releases/download/v703/nura-player-mobile.apk",
+    "sha256":  "b1735f21a4eb91d3d70f3fd3a699e0a228e788736978a1aab66ec83a3fdebf8e",
+    "updateNotes":  "The guide shows a Top menu hint for the Back key. Failed channels now report whether your device had a network connection. Each build ends in a build number (for example V2-tv.17) in About. Updates install themselves.",
     "isForceUpdate":  false,
     "profiles":  [
                      {
                          "minApi":  28,
                          "maxApi":  30,
-                         "url":  "https://github.com/NuraPlayer/app-updates/releases/download/v702/nura-player-mobile-api28.dm",
-                         "sha256":  "f89f0e97ef21aca1f2d398dbe27be8bf9e7d788abc478fb62c306f803a1b8eb7"
+                         "url":  "https://github.com/NuraPlayer/app-updates/releases/download/v703/nura-player-mobile-api28.dm",
+                         "sha256":  "a9afd4bfd3a5077e7a68774294fb06c221a0cc0d053f1222220a079a954921ad"
                      },
                      {
                          "minApi":  31,
                          "maxApi":  2147483647,
-                         "url":  "https://github.com/NuraPlayer/app-updates/releases/download/v702/nura-player-mobile-api31.dm",
-                         "sha256":  "55cae38d2919d113162914fe3e442a9380c982a6bcae0f5562f7d7f888d0cc57"
+                         "url":  "https://github.com/NuraPlayer/app-updates/releases/download/v703/nura-player-mobile-api31.dm",
+                         "sha256":  "9e2014de0a4713ed6cdfabd3831ab7bc5522304178abb9812d83a56df68aecd5"
                      }
                  ]
 }

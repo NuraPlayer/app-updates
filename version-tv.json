@@ -1,22 +1,22 @@
 {
-    "versionCode":  698,
+    "versionCode":  702,
     "versionName":  "V2-tv",
-    "updateUrl":  "https://github.com/NuraPlayer/app-updates/releases/download/v698/nura-player-tv.apk",
-    "sha256":  "5394737c753bdb3d9ade20afb2c47c68c3bed9e531c2e92689acbe9b36ab14fb",
-    "updateNotes":  "Simkl: link your Simkl account in Settings and what you watch is tracked. First channel plays in the guide preview on first start. Recently watched card no longer cuts off a row. Smoother playback after updates (compiled at install). Fewer reconnects on one-connection accounts.",
+    "updateUrl":  "https://github.com/NuraPlayer/app-updates/releases/download/v702/nura-player-tv.apk",
+    "sha256":  "13fb34ef617fee22fd2a5c72e1d8cf2047670d324ecfbc74221d69013cc84ab8",
+    "updateNotes":  "All notifications are silent now (goal alerts, reminders, sports events). Crash reports carry more detail so problems can be fixed faster. Simkl tracking, first-channel preview and smoother playback from the previous update.",
     "isForceUpdate":  false,
     "profiles":  [
                      {
                          "minApi":  28,
                          "maxApi":  30,
-                         "url":  "https://github.com/NuraPlayer/app-updates/releases/download/v698/nura-player-tv-api28.dm",
-                         "sha256":  "e0276e1dd615de48884f110a506fc05d694e56dd1eff65582886c38c3fc091d7"
+                         "url":  "https://github.com/NuraPlayer/app-updates/releases/download/v702/nura-player-tv-api28.dm",
+                         "sha256":  "ee224454cbcbc8cdbcf29d2dfe35d6c9a0e41941c518384541d98b4add210767"
                      },
                      {
                          "minApi":  31,
                          "maxApi":  2147483647,
-                         "url":  "https://github.com/NuraPlayer/app-updates/releases/download/v698/nura-player-tv-api31.dm",
-                         "sha256":  "936319fedcdebce0a10739c7ef07881c78ea3e3952f5ee5d345c34bba38d2ebe"
+                         "url":  "https://github.com/NuraPlayer/app-updates/releases/download/v702/nura-player-tv-api31.dm",
+                         "sha256":  "13019bfd178bdad26f1bdd882ad63a4ec25612e6d549867639f267b9930eac92"
                      }
                  ]
 }

@@ -1,22 +1,22 @@
 {
-    "versionCode":  703,
-    "versionName":  "V2-mobile.1",
-    "updateUrl":  "https://github.com/NuraPlayer/app-updates/releases/download/v703/nura-player-mobile.apk",
-    "sha256":  "b1735f21a4eb91d3d70f3fd3a699e0a228e788736978a1aab66ec83a3fdebf8e",
-    "updateNotes":  "The guide shows a Top menu hint for the Back key. Failed channels now report whether your device had a network connection. Each build ends in a build number (for example V2-tv.17) in About. Updates install themselves.",
+    "versionCode":  704,
+    "versionName":  "V2-mobile.4",
+    "updateUrl":  "https://github.com/NuraPlayer/app-updates/releases/download/v704/nura-player-mobile.apk",
+    "sha256":  "64e1bc42e2d61233922b67ae692652524e1a2e02c66288e884e5743d32cc0e0b",
+    "updateNotes":  "A film or episode that would not start where you left off now starts again from the beginning instead of showing an error. Channels that fail now send more detail so problems are quicker to find.",
     "isForceUpdate":  false,
     "profiles":  [
                      {
                          "minApi":  28,
                          "maxApi":  30,
-                         "url":  "https://github.com/NuraPlayer/app-updates/releases/download/v703/nura-player-mobile-api28.dm",
-                         "sha256":  "a9afd4bfd3a5077e7a68774294fb06c221a0cc0d053f1222220a079a954921ad"
+                         "url":  "https://github.com/NuraPlayer/app-updates/releases/download/v704/nura-player-mobile-api28.dm",
+                         "sha256":  "3630da2228c1e10efbe9bae482befb8fa2340c5c111d520f28792cc36363933f"
                      },
                      {
                          "minApi":  31,
                          "maxApi":  2147483647,
-                         "url":  "https://github.com/NuraPlayer/app-updates/releases/download/v703/nura-player-mobile-api31.dm",
-                         "sha256":  "9e2014de0a4713ed6cdfabd3831ab7bc5522304178abb9812d83a56df68aecd5"
+                         "url":  "https://github.com/NuraPlayer/app-updates/releases/download/v704/nura-player-mobile-api31.dm",
+                         "sha256":  "5bbbc04ee1fb576e4b3a0a9e8cdc1c49f70c6a9ecd124fde6d7b2d626d644b5d"
                      }
                  ]
 }

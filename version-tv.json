@@ -1,22 +1,22 @@
 {
-    "versionCode":  704,
-    "versionName":  "V2-tv.4",
-    "updateUrl":  "https://github.com/NuraPlayer/app-updates/releases/download/v704/nura-player-tv.apk",
-    "sha256":  "28326bb29c4a1c322e655f9c2354a70dd7d7b5e7c186451f83c63fd156ea117d",
-    "updateNotes":  "A film or episode that would not start where you left off now starts again from the beginning instead of showing an error. Channels that fail now send more detail so problems are quicker to find.",
+    "versionCode":  732,
+    "versionName":  "V2-tv.33",
+    "updateUrl":  "https://github.com/NuraPlayer/app-updates/releases/download/v732/nura-player-tv.apk",
+    "sha256":  "0e3d3dfa45f0eb4dd946f627762a0d922415dc3b6ed698c47966ff2d2214a94a",
+    "updateNotes":  "Updates and bug fixes",
     "isForceUpdate":  false,
     "profiles":  [
                      {
                          "minApi":  28,
                          "maxApi":  30,
-                         "url":  "https://github.com/NuraPlayer/app-updates/releases/download/v704/nura-player-tv-api28.dm",
-                         "sha256":  "108c9630b015f60abfc9cb5d541b50cf904d5353cbb005d56788656a8c9f3b80"
+                         "url":  "https://github.com/NuraPlayer/app-updates/releases/download/v732/nura-player-tv-api28.dm",
+                         "sha256":  "ce32d7dd2cb70ac47f636bdf6740c2e98448d5308140c0183aa1ec8000a589c0"
                      },
                      {
                          "minApi":  31,
                          "maxApi":  2147483647,
-                         "url":  "https://github.com/NuraPlayer/app-updates/releases/download/v704/nura-player-tv-api31.dm",
-                         "sha256":  "901105240e37becf2f96832e380bb4c0c7ddb46cf137e6c3df0692357cbc452b"
+                         "url":  "https://github.com/NuraPlayer/app-updates/releases/download/v732/nura-player-tv-api31.dm",
+                         "sha256":  "57b54dde4196ab893e172bfbf95ad7a3f56e2919e1325ee2cc986a289f75025c"
                      }
                  ]
 }

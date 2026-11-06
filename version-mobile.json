@@ -1,22 +1,22 @@
 {
-    "versionCode":  704,
-    "versionName":  "V2-mobile.4",
-    "updateUrl":  "https://github.com/NuraPlayer/app-updates/releases/download/v704/nura-player-mobile.apk",
-    "sha256":  "64e1bc42e2d61233922b67ae692652524e1a2e02c66288e884e5743d32cc0e0b",
-    "updateNotes":  "A film or episode that would not start where you left off now starts again from the beginning instead of showing an error. Channels that fail now send more detail so problems are quicker to find.",
+    "versionCode":  737,
+    "versionName":  "V2-mobile.45",
+    "updateUrl":  "https://github.com/NuraPlayer/app-updates/releases/download/v737/nura-player-mobile.apk",
+    "sha256":  "a9530a994278d4d02228bb08664c384699c869fb29e9485a4c899c4dfee7ae34",
+    "updateNotes":  "Updates and bug fixes",
     "isForceUpdate":  false,
     "profiles":  [
                      {
                          "minApi":  28,
                          "maxApi":  30,
-                         "url":  "https://github.com/NuraPlayer/app-updates/releases/download/v704/nura-player-mobile-api28.dm",
-                         "sha256":  "3630da2228c1e10efbe9bae482befb8fa2340c5c111d520f28792cc36363933f"
+                         "url":  "https://github.com/NuraPlayer/app-updates/releases/download/v737/nura-player-mobile-api28.dm",
+                         "sha256":  "91ab5c28b11d6387a93e99412803b0cd028bdd75ff5a3e2a87f05b5fe47a8f27"
                      },
                      {
                          "minApi":  31,
                          "maxApi":  2147483647,
-                         "url":  "https://github.com/NuraPlayer/app-updates/releases/download/v704/nura-player-mobile-api31.dm",
-                         "sha256":  "5bbbc04ee1fb576e4b3a0a9e8cdc1c49f70c6a9ecd124fde6d7b2d626d644b5d"
+                         "url":  "https://github.com/NuraPlayer/app-updates/releases/download/v737/nura-player-mobile-api31.dm",
+                         "sha256":  "649ff8cc62696933448c61ddded566e027b090964379c4d107635038e5b71677"
                      }
                  ]
 }

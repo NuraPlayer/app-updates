@@ -1,22 +1,22 @@
 {
-    "versionCode":  739,
-    "versionName":  "V2-tv.48",
-    "updateUrl":  "https://github.com/NuraPlayer/app-updates/releases/download/v739/nura-player-tv.apk",
-    "sha256":  "ad12bd8c13836691b72d6f7a60b5102656ab2738ce74d3c3b1101676fc816ac9",
+    "versionCode":  741,
+    "versionName":  "V2-tv.50",
+    "updateUrl":  "https://github.com/NuraPlayer/app-updates/releases/download/v741/nura-player-tv.apk",
+    "sha256":  "1a840f40b6595653f5e56520c153e57f562ea451c002a66aa742d508311b8401",
     "updateNotes":  "Updates and bug fixes",
     "isForceUpdate":  false,
     "profiles":  [
                      {
                          "minApi":  28,
                          "maxApi":  30,
-                         "url":  "https://github.com/NuraPlayer/app-updates/releases/download/v739/nura-player-tv-api28.dm",
-                         "sha256":  "d7deca2e6aaf573efd5b790abaaecd84c4fd3d9bc4ac72645c0dd0c1695e177c"
+                         "url":  "https://github.com/NuraPlayer/app-updates/releases/download/v741/nura-player-tv-api28.dm",
+                         "sha256":  "f1aaeaf0b56891803a513cac127f54a2f38b508df3c3d22f4328abfb24c1b39c"
                      },
                      {
                          "minApi":  31,
                          "maxApi":  2147483647,
-                         "url":  "https://github.com/NuraPlayer/app-updates/releases/download/v739/nura-player-tv-api31.dm",
-                         "sha256":  "46776eecb56c0a0416bb5b35d356c4bd010b35f04826f6f42c2b10c71b5661f0"
+                         "url":  "https://github.com/NuraPlayer/app-updates/releases/download/v741/nura-player-tv-api31.dm",
+                         "sha256":  "8962973fd74999fc913ac4eb45aae3797e24778bfacd273e475baeb1ef09c3c8"
                      }
                  ]
 }

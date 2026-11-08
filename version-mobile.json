@@ -1,7 +1,7 @@
 {
     "versionCode":  755,
     "versionName":  "V2-mobile.67",
-    "updateUrl":  "https://github.com/NuraPlayer/app-updates/releases/download/v755/nura-player-mobile.apk",
+    "updateUrl":  "https://nuraplayer.uk/download/v755/nura-player-mobile.apk",
     "sha256":  "61cd259d32806edd950e295a29c9b36da3588e50e29d2838980b4cf82eafa6b8",
     "updateNotes":  "Updates and bug fixes",
     "isForceUpdate":  false,

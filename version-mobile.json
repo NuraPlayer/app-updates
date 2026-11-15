@@ -1,22 +1,22 @@
 {
-    "versionCode":  792,
-    "versionName":  "V2-mobile.132",
-    "updateUrl":  "https://nuraplayer.uk/download/v792/nura-player-mobile.apk",
-    "sha256":  "b78f956f810a31b521e17cccee442b735b7eb6095c0c0ce0d028cd19535c88cd",
-    "updateNotes":  "Skip intro: a button to skip a series\u0027 opening titles. Recordings can be saved to Google Drive. The app is now in 15 more European languages. Time-shift keeps room free on your device and resumes cleanly after a long pause. Guide: a playing dot under the channel number, and Record stops a channel that is already recording. Fixed a crash on boxes with little memory when the guide finished downloading while a film played, and the app no longer closes when Android\u0027s clean-up runs slow.",
+    "versionCode":  796,
+    "versionName":  "V2-mobile.134",
+    "updateUrl":  "https://nuraplayer.uk/download/v796/nura-player-mobile.apk",
+    "sha256":  "a485ee8f2771dfdb13cb82ea8728edcb22723493c4c546278ec8b29b6788d4f5",
+    "updateNotes":  "Duplicate channels now show once in a group, with a number for how many copies there are (HD, FHD, SD, HEVC...). The best copy plays, and if it stops the next copy is tried. BBC TWO and BBC 2 count as the same channel. Channel up and down skip the copies. You can turn it off in Settings \u003e General \u003e Combine duplicate channels.",
     "isForceUpdate":  false,
     "profiles":  [
                      {
                          "minApi":  28,
                          "maxApi":  30,
-                         "url":  "https://github.com/NuraPlayer/app-updates/releases/download/v792/nura-player-mobile-api28.dm",
-                         "sha256":  "724fff552b93e2302bd7f9ff70dc0851fc5e279f314540ec2eb04b0792344d13"
+                         "url":  "https://github.com/NuraPlayer/app-updates/releases/download/v796/nura-player-mobile-api28.dm",
+                         "sha256":  "2f55616e6f7fabcf81da1cf516494518eac81d84606adec2d18419e466e3d6be"
                      },
                      {
                          "minApi":  31,
                          "maxApi":  2147483647,
-                         "url":  "https://github.com/NuraPlayer/app-updates/releases/download/v792/nura-player-mobile-api31.dm",
-                         "sha256":  "c430f6aa768678e9e9c074965416c4ecb5bb4999b3104808474378461b6cafe3"
+                         "url":  "https://github.com/NuraPlayer/app-updates/releases/download/v796/nura-player-mobile-api31.dm",
+                         "sha256":  "9327d67df1e7ef3306c5ad512d85b260809a2eaad6bd7bcae3fee92b5a9bbd91"
                      }
                  ]
 }

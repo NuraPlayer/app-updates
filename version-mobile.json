@@ -1,22 +1,22 @@
 {
-    "versionCode":  796,
-    "versionName":  "V2-mobile.134",
-    "updateUrl":  "https://nuraplayer.uk/download/v796/nura-player-mobile.apk",
-    "sha256":  "a485ee8f2771dfdb13cb82ea8728edcb22723493c4c546278ec8b29b6788d4f5",
-    "updateNotes":  "Duplicate channels now show once in a group, with a number for how many copies there are (HD, FHD, SD, HEVC...). The best copy plays, and if it stops the next copy is tried. BBC TWO and BBC 2 count as the same channel. Channel up and down skip the copies. You can turn it off in Settings \u003e General \u003e Combine duplicate channels.",
+    "versionCode":  815,
+    "versionName":  "V2-mobile.159",
+    "updateUrl":  "https://nuraplayer.uk/download/v815/nura-player-mobile.apk",
+    "sha256":  "dd01b6c7821061014b84f31a7d98ae0e57f89c3d99e147001fac4bdc36fcd16c",
+    "updateNotes":  "Programme info panel now closes with Back on every box (Formuler Z12). Clearer highlight on the sign-in tabs. Trakt connection updated. Phone: tidier Home rows, channel initials while logos load, full-width Settings, a message when you add or remove a favourite.",
     "isForceUpdate":  false,
     "profiles":  [
                      {
                          "minApi":  28,
                          "maxApi":  30,
-                         "url":  "https://github.com/NuraPlayer/app-updates/releases/download/v796/nura-player-mobile-api28.dm",
-                         "sha256":  "2f55616e6f7fabcf81da1cf516494518eac81d84606adec2d18419e466e3d6be"
+                         "url":  "https://github.com/NuraPlayer/app-updates/releases/download/v815/nura-player-mobile-api28.dm",
+                         "sha256":  "928e5d37c1beb18d45ca42ba5838cf578f81e8cecf400578bbeb9d04f8e99970"
                      },
                      {
                          "minApi":  31,
                          "maxApi":  2147483647,
-                         "url":  "https://github.com/NuraPlayer/app-updates/releases/download/v796/nura-player-mobile-api31.dm",
-                         "sha256":  "9327d67df1e7ef3306c5ad512d85b260809a2eaad6bd7bcae3fee92b5a9bbd91"
+                         "url":  "https://github.com/NuraPlayer/app-updates/releases/download/v815/nura-player-mobile-api31.dm",
+                         "sha256":  "536f80464fdb1eb43154c79d4b87028d60e10fe80fa33bedbee294bbdf9cee94"
                      }
                  ]
 }

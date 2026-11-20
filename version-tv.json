@@ -1,22 +1,22 @@
 {
-    "versionCode":  815,
-    "versionName":  "V2-tv.159",
-    "updateUrl":  "https://nuraplayer.uk/download/v815/nura-player-tv.apk",
-    "sha256":  "4063333279fb8487a21ecafb6b680db48644fd7e167ab50e42a35d4f4032a051",
-    "updateNotes":  "Programme info panel now closes with Back on every box (Formuler Z12). Clearer highlight on the sign-in tabs. Trakt connection updated. Phone: tidier Home rows, channel initials while logos load, full-width Settings, a message when you add or remove a favourite.",
+    "versionCode":  838,
+    "versionName":  "V2-tv.190",
+    "updateUrl":  "https://files.nuraplayer.uk/download/v838/nura-player-tv.apk",
+    "sha256":  "a205ff741143edd33f89692e08107a7ca6f8f97c5ba1eb69247dce40ae6cf3f2",
+    "updateNotes":  "Updates and bug fixes",
     "isForceUpdate":  false,
     "profiles":  [
                      {
                          "minApi":  28,
                          "maxApi":  30,
-                         "url":  "https://github.com/NuraPlayer/app-updates/releases/download/v815/nura-player-tv-api28.dm",
-                         "sha256":  "635980ade68d8114abace65675479baf808be39b03a6fb61bb0d13f042401ddf"
+                         "url":  "https://github.com/NuraPlayer/app-updates/releases/download/v838/nura-player-tv-api28.dm",
+                         "sha256":  "7b8ebde8dc294210837caf5124f5b34d9633d315b760db333d9b897c2458c9ad"
                      },
                      {
                          "minApi":  31,
                          "maxApi":  2147483647,
-                         "url":  "https://github.com/NuraPlayer/app-updates/releases/download/v815/nura-player-tv-api31.dm",
-                         "sha256":  "5c05840f63931f024859bc48ad0ce6edf074c9469759479e6b2a00cb971d7557"
+                         "url":  "https://github.com/NuraPlayer/app-updates/releases/download/v838/nura-player-tv-api31.dm",
+                         "sha256":  "5d85cc4640d5ffc952994069be1cd835c8ca537918aebf590d071d7df273a727"
                      }
                  ]
 }

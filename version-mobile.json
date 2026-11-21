@@ -1,22 +1,22 @@
 {
-    "versionCode":  838,
-    "versionName":  "V2-mobile.190",
-    "updateUrl":  "https://files.nuraplayer.uk/download/v838/nura-player-mobile.apk",
-    "sha256":  "c6bda49b06cbc4889c06f70fd2adc38324e86c5a841690e2a12bf0dbb26ea59d",
+    "versionCode":  844,
+    "versionName":  "V2-mobile.201",
+    "updateUrl":  "https://files.nuraplayer.uk/download/v844/nura-player-mobile.apk",
+    "sha256":  "bcaeb2b3fc34f2e274d46b3ac73b6835796672154f10b24d17c8cb8c616a6b5c",
     "updateNotes":  "Updates and bug fixes",
     "isForceUpdate":  false,
     "profiles":  [
                      {
                          "minApi":  28,
                          "maxApi":  30,
-                         "url":  "https://github.com/NuraPlayer/app-updates/releases/download/v838/nura-player-mobile-api28.dm",
-                         "sha256":  "1540ea674b78cc881fb8b0e8ffffc9e6938449ca6aee107743ea7d996e961e9c"
+                         "url":  "https://github.com/NuraPlayer/app-updates/releases/download/v844/nura-player-mobile-api28.dm",
+                         "sha256":  "50534a9ef3485e03c9ce82b2dc96c9a5c3c217bbf3be99eedca5fb35a5399803"
                      },
                      {
                          "minApi":  31,
                          "maxApi":  2147483647,
-                         "url":  "https://github.com/NuraPlayer/app-updates/releases/download/v838/nura-player-mobile-api31.dm",
-                         "sha256":  "282ab956a7bbbe94405a8f6ad8bef1da81237da7b409d6f40187f74b8d6b7944"
+                         "url":  "https://github.com/NuraPlayer/app-updates/releases/download/v844/nura-player-mobile-api31.dm",
+                         "sha256":  "6712a0b839514d1004f64bc3e24988b83ecd903e79f51abf2e9327b2084baec2"
                      }
                  ]
 }
